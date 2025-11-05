@@ -1,0 +1,5 @@
+{
+  "name": "Robo AI - Image Editor & Analyzer",
+  "description": "An intuitive web application that leverages the Gemini API to allow users to upload images, analyze them with AI, and perform powerful edits using simple text prompts.",
+  "requestFramePermissions": []
+}
